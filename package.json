@@ -1,17 +1,16 @@
-
 {
-"name": "wowslot69",
-"theme": "wow slot 69",
-"version": "9.5.4",
-"description": "wow slot 69 ทางเข้าหลักเว็บแทงบอลเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
-"keywords": [
-"wow slot 69",
-"wow slot 69 เครดิตฟรี",
-"wow slot 69 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/wowslot69",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "wowslot69",
+  "theme": "wow slot 69",
+  "version": "9.6.0",
+  "description": "wow slot 69 ทางเข้าหลักเว็บแทงบอลเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "wow slot 69",
+    "wow slot 69 เครดิตฟรี",
+    "wow slot 69 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/wowslot69",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
